@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FilmCatalogue</string>
+    <string name="instructions">Selecciona una pelicula para ver su portada</string>
+    <string name="gravity">GRAVEDAD</string>
+    <string name="jumanji">JUMANJI</string>
+    <string name="the_lion_king">EL REY LEÓN</string>
+    <string name="starsWars">STAR WARS</string>
+    <string name="origen">EL ORIGEN</string>
+    <string name="toyStory">TOY STORY</string>
+</resources>
